@@ -1,0 +1,8 @@
+# C++ 16|Calcolatrice base
+Una calcolatrice in C++ che esegue le 4 operazioni base.
+
+## Funzioni disponibili
+1. Addizione
+2. Sottrazione
+3. Moltiplicazione
+4. Divisione
